@@ -98,6 +98,15 @@ input[type=checkbox] {
   padding: 1px 5px;
 }
 
+.feelersLabel {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #EEE;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  padding: 1px 5px;
+}
+
 .checked {
   background-color: #AAA;
 }

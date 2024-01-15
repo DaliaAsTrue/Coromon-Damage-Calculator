@@ -13,8 +13,8 @@ let coromonList = Object.keys(coromon);
 let skillList = Object.keys(skills);
 
 let chosenMons = [Object.assign({}, coromon.Cubzero.statBoost = [0, 0, 0, 0, 0]), Object.assign({}, coromon.Cubzero.statBoost = [0, 0, 0, 0, 0])];
-let chosenSkills = [[Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false)],
-                    [Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false), Object.assign({}, skills["(No Skill)"].crit = false)]];
+let chosenSkills = [[Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false)],
+                    [Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false), Object.assign({}, skills["(No Skill)"].crit = false, .feelers = false)]];
 
 window.onload = function() {
     initCoromon();
