@@ -23,7 +23,7 @@ function getDamage(atkMon, defMon, selectedSkill, weather = "none") {
       crit = 1;
     }
     
-    if (false) {        //Fix
+    if (selectedSkill.feelers) {        //Fix
       feelers = 2.5;
     } else {
       feelers = 1;

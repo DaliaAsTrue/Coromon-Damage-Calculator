@@ -179,6 +179,11 @@ function resetSet(id) {
         document.getElementById("crit" + side + i).checked = false;
     }
 
+    //Reset Feelers
+    for (let i = 1; i <= 4; i++) {
+        document.getElementById("feelers" + side + i).checked = false;
+    }
+
     updateSet(id);
 
 }
@@ -269,6 +274,8 @@ function updateSet(id) {
             document.getElementById("skillDmgType" + side + i).value = chosenSkills[id - 1][i - 1].Category;
             chosenSkills[id - 1][i - 1].crit = false;
             document.getElementById("critLabel" + side + i).classList.remove("checked");
+            chosenSkills[id - 1][i - 1].feelers = false;
+            document.getElementById("feelersLabel" + side + i).classList.remove("checked");            
         } else {
             chosenSkills[id - 1][i - 1] = skills[chosenMons[id - 1].sets[0].skills[i - 1]];
             chosenSkills[id - 1][i - 1].Power = document.getElementById("skillDmg" + side + i).value;
@@ -292,6 +299,17 @@ function updateSet(id) {
         } else {
             chosenSkills[id - 1][i - 1].crit = false;
             document.getElementById("critLabel" + side + i).classList.remove("checked");
+        }
+    }
+
+    //Update Feelers
+    for (let i = 1; i <= 4; i++) {
+        if (document.getElementById("feelers" + side + i).checked) {
+            chosenSkills[id - 1][i - 1].feelers = true;
+            document.getElementById("feelersLabel" + side + i).classList.add("checked");
+        } else {
+            chosenSkills[id - 1][i - 1].feelers = false;
+            document.getElementById("feelersLabel" + side + i).classList.remove("checked");
         }
     }
 
