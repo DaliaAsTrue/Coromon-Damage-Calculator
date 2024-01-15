@@ -235,7 +235,7 @@ function getEffectiveness(type1, type2) {
       case "Heavy->Crimsonite":
       case "Air->Crimsonite":
       case "Poison->Crimsonite":
-      case "Cut->Crimsonite"
+      case "Cut->Crimsonite":
         return 0.5;
         break;
       
