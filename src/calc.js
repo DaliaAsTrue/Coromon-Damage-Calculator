@@ -223,6 +223,19 @@ function getEffectiveness(type1, type2) {
       case "Air->Ice":
       case "Poison->Ice":
       case "Cut->Ghost":
+      case "Normal->Crimsonite":
+      case "Electric->Crimsonite":
+      case "Ghost->Crimsonite":
+      case "Sand->Crimsonite":
+      case "Fire->Crimsonite":
+      case "Ice->Crimsonite":
+      case "Water->Crimsonite":
+      case "Magic->Crimsonite":
+      case "Foul->Crimsonite":
+      case "Heavy->Crimsonite":
+      case "Air->Crimsonite":
+      case "Poison->Crimsonite":
+      case "Cut->Crimsonite"
         return 0.5;
         break;
       

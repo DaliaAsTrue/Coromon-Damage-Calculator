@@ -24,6 +24,15 @@
             "Contact": true,
             "Description": "Bite with acid teeth, lowering the target's defense."
         },
+        "Acid Bite RNG Reduced": {
+            "Type": "Poison",
+            "Category": "Physical",
+            "Power": 54,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": true,
+            "Description": "Bite with acid teeth, lowering the target's defense."
+        },
         "Acid Rain": {
             "Type": "Poison",
             "Category": "Status",
@@ -59,6 +68,33 @@
             "Cost": 0,
             "Contact": false,
             "Description": "Summon the twilight, increasing the effectiveness of ghost Coromon."
+        },
+        "Avalanche": {
+            "Type": "Ice",
+            "Category": "Physical",
+            "Power": 110,
+            "Accuracy": 95,
+            "Cost": 8,
+            "Contact": false,
+            "Description": "Drop an avalanche of snowballs on the target. Has a 25% to contain frozen ice which makes the target bleed."
+        },
+        "Avalanche RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Physical",
+            "Power": 104,
+            "Accuracy": 100,
+            "Cost": 8,
+            "Contact": false,
+            "Description": "Drop an avalanche of snowballs on the target. Has a 25% to contain frozen ice which makes the target bleed."
+        },
+        "Backstab": {
+            "Type": "Foul",
+            "Category": "Special",
+            "Power": 85,
+            "Accuracy": 100,
+            "Cost": 7,
+            "Contact": false,
+            "Description": "The Coromon moves super fast to hit the opponent with a vile backstab. When this attack goes last, it causes extreme bleeding."
         },
         "Ball of Darkness": {
             "Type": "Ghost",
@@ -123,11 +159,29 @@
             "Contact": false,
             "Description": "Summon a powerful blizzard which damages the opposing team. Has a 10% chance to freeze them."
         },
+        "Blizzard RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Special",
+            "Power": 85,
+            "Accuracy": 90,
+            "Cost": 8,
+            "Contact": false,
+            "Description": "Summon a powerful blizzard which damages the opposing team. Has a 10% chance to freeze them."
+        },
         "Body Blast": {
             "Type": "Heavy",
             "Category": "Physical",
             "Power": 90,
             "Accuracy": 90,
+            "Cost": 8,
+            "Contact": true,
+            "Description": ""
+        },
+        "Body Blast RNG Reduced": {
+            "Type": "Heavy",
+            "Category": "Physical",
+            "Power": 81,
+            "Accuracy": 100,
             "Cost": 8,
             "Contact": true,
             "Description": ""
@@ -146,6 +200,15 @@
             "Category": "Physical",
             "Power": 60,
             "Accuracy": 95,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
+        "Boulder Barrage RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Physical",
+            "Power": 57,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": ""
@@ -249,6 +312,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Cloudburst RNG Reduced": {
+            "Type": "Water",
+            "Category": "Special",
+            "Power": 47,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Coin Snatch": {
             "Type": "Normal",
             "Category": "Status",
@@ -295,7 +367,7 @@
             "Description": "Liquid hot magma surrounds the target, inflicting [condition.burn] and preventing escape for 5 rounds."
         },
         "Corrupt": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Status",
             "Power": 0,
             "Accuracy": 100,
@@ -304,7 +376,7 @@
             "Description": "Corrupts the target, lowering its [stat.attack] and [stat.specialAttack] by 3 stages."
         },
         "Corrupted Storm": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Status",
             "Power": 0,
             "Accuracy": 100,
@@ -335,6 +407,15 @@
             "Category": "Physical",
             "Power": 90,
             "Accuracy": 95,
+            "Cost": 6,
+            "Contact": true,
+            "Description": "Crush the target with powerful jaws. Has a 25% chance to make the target bleed."
+        },
+        "Crunch RNG Reduced": {
+            "Type": "Foul",
+            "Category": "Physical",
+            "Power": 85,
+            "Accuracy": 100,
             "Cost": 6,
             "Contact": true,
             "Description": "Crush the target with powerful jaws. Has a 25% chance to make the target bleed."
@@ -375,6 +456,15 @@
             "Contact": false,
             "Description": "Shoot 1 to 3 crystal projectiles at the target, with a 25% increased [stat.criticalHitChance]."
         },
+        "Crystal Shot RNG Reduced": {
+            "Type": "Water",
+            "Category": "Physical",
+            "Power": 66,
+            "Accuracy": 100,
+            "Cost": 4,
+            "Contact": false,
+            "Description": "Shoot 1 to 3 crystal projectiles at the target, with a 25% increased [stat.criticalHitChance]."
+        },
         "Crystal Surprise": {
             "Type": "Water",
             "Category": "Status",
@@ -411,11 +501,29 @@
             "Contact": true,
             "Description": "Furiously scratch the target, making the target bleed. Has a 50% chance to increase the user's [stat.attack] by 1 stage."
         },
+        "Deep Cut RNG Reduced": {
+            "Type": "Cut",
+            "Category": "Physical",
+            "Power": 54,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": true,
+            "Description": "Furiously scratch the target, making the target bleed. Has a 50% chance to increase the user's [stat.attack] by 1 stage."
+        },
         "Desert Hurricane": {
             "Type": "Sand",
             "Category": "Special",
             "Power": 120,
             "Accuracy": 95,
+            "Cost": 9,
+            "Contact": true,
+            "Description": "A field of sand tornadoes rips through all foes, dealing big damage."
+        },
+        "Desert Hurricane RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Special",
+            "Power": 114,
+            "Accuracy": 100,
             "Cost": 9,
             "Contact": true,
             "Description": "A field of sand tornadoes rips through all foes, dealing big damage."
@@ -433,7 +541,16 @@
             "Type": "Fire",
             "Category": "Special",
             "Power": 130,
-            "Accuracy": 95,
+            "Accuracy": 85,
+            "Cost": 10,
+            "Contact": false,
+            "Description": "The user overheats and bursts into flames, inflicting massive damage to the opposing team. Lowers the user's [stat.specialAttack] by 1 stage."
+        },
+        "Detonate RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Special",
+            "Power": 110,
+            "Accuracy": 100,
             "Cost": 10,
             "Contact": false,
             "Description": "The user overheats and bursts into flames, inflicting massive damage to the opposing team. Lowers the user's [stat.specialAttack] by 1 stage."
@@ -475,7 +592,7 @@
             "Description": "Disable the target's [trait.singular] for 5 rounds."
         },
         "Disruption": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Special",
             "Power": 100,
             "Accuracy": 100,
@@ -484,7 +601,7 @@
             "Description": "Creates a disruption, dealing huge damage to the target and lowering a random stat by 2 stages."
         },
         "Distort": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Status",
             "Power": 0,
             "Accuracy": 100,
@@ -513,8 +630,17 @@
         "Double Sting": {
             "Type": "Normal",
             "Category": "Physical",
-            "Power": 30,
+            "Power": 60,
             "Accuracy": 95,
+            "Cost": 4,
+            "Contact": true,
+            "Description": "Two quick successive stings strike the target, each dealing damage. This attack always goes first."
+        },
+        "Double Sting RNG Reduced": {
+            "Type": "Normal",
+            "Category": "Physical",
+            "Power": 56,
+            "Accuracy": 100,
             "Cost": 4,
             "Contact": true,
             "Description": "Two quick successive stings strike the target, each dealing damage. This attack always goes first."
@@ -542,6 +668,15 @@
             "Category": "Physical",
             "Power": 20,
             "Accuracy": 90,
+            "Cost": 3,
+            "Contact": true,
+            "Description": "Smash the target on its head for 1 to 3 times. Every hit has a 6% chance to knock down the target."
+        },
+        "Electric Pound RNG Reduced": {
+            "Type": "Electric",
+            "Category": "Physical",
+            "Power": 36,
+            "Accuracy": 100,
             "Cost": 3,
             "Contact": true,
             "Description": "Smash the target on its head for 1 to 3 times. Every hit has a 6% chance to knock down the target."
@@ -583,7 +718,7 @@
             "Description": "Drain the opponent's [hp] and convert it to [sp]."
         },
         "Enveloping Darkness": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Status",
             "Power": 0,
             "Accuracy": 100,
@@ -623,6 +758,15 @@
             "Category": "",
             "Power": 50,
             "Accuracy": 90,
+            "Cost": 3,
+            "Contact": true,
+            "Description": "Sneak up on the target, dealing damage. This attack always goes first."
+        },
+        "Fade Attack RNG Reduced": {
+            "Type": "Foul",
+            "Category": "",
+            "Power": 45,
+            "Accuracy": 100,
             "Cost": 3,
             "Contact": true,
             "Description": "Sneak up on the target, dealing damage. This attack always goes first."
@@ -726,6 +870,15 @@
             "Contact": true,
             "Description": ""
         },
+        "Flying Kick RNG Reduced": {
+            "Type": "Normal",
+            "Category": "Physical",
+            "Power": 90,
+            "Accuracy": 100,
+            "Cost": 7,
+            "Contact": true,
+            "Description": ""
+        },
         "Frantic Mask": {
             "Type": "Ghost",
             "Category": "Status",
@@ -796,7 +949,16 @@
             "Accuracy": 90,
             "Cost": 3,
             "Contact": true,
-            "Description": ""
+            "Description": "The user lets its fury out on the target, hitting 1 to 3 times."
+        },
+        "Fury Fist RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Physical",
+            "Power": 36,
+            "Accuracy": 100,
+            "Cost": 3,
+            "Contact": true,
+            "Description": "The user lets its fury out on the target, hitting 1 to 3 times."
         },
         "Fury Pincer": {
             "Type": "Water",
@@ -805,7 +967,16 @@
             "Accuracy": 100,
             "Cost": 3,
             "Contact": true,
-            "Description": ""
+            "Description": "Attack the target furiously with snapping pincers, hitting 1 to 3 times."
+        },
+        "Fury Pincer RNG Reduced": {
+            "Type": "Water",
+            "Category": "Physical",
+            "Power": 50,
+            "Accuracy": 100,
+            "Cost": 3,
+            "Contact": true,
+            "Description": "Attack the target furiously with snapping pincers, hitting 1 to 3 times."
         },
         "Geyser": {
             "Type": "Water",
@@ -843,6 +1014,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Glacier Drop RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Special",
+            "Power": 90,
+            "Accuracy": 100,
+            "Cost": 8,
+            "Contact": false,
+            "Description": ""
+        },
         "Glass Cannon": {
             "Type": "Normal",
             "Category": "Status",
@@ -864,7 +1044,7 @@
         "Headbash": {
             "Type": "Heavy",
             "Category": "Physical",
-            "Power": 130,
+            "Power": 110,
             "Accuracy": 100,
             "Cost": 8,
             "Contact": true,
@@ -875,6 +1055,15 @@
             "Category": "Physical",
             "Power": 145,
             "Accuracy": 90,
+            "Cost": 8,
+            "Contact": true,
+            "Description": ""
+        },
+        "Headcrash RNG Reduced": {
+            "Type": "Heavy",
+            "Category": "Physical",
+            "Power": 130,
+            "Accuracy": 100,
             "Cost": 8,
             "Contact": true,
             "Description": ""
@@ -900,8 +1089,17 @@
         "Heated Horns": {
             "Type": "Fire",
             "Category": "Physical",
-            "Power": 35,
+            "Power": 55,
             "Accuracy": 90,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
+        "Heated Horns RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Physical",
+            "Power": 49,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": ""
@@ -951,6 +1149,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Hydro Punch RNG Reduced": {
+            "Type": "Water",
+            "Category": "Physical",
+            "Power": 99,
+            "Accuracy": 100,
+            "Cost": 8,
+            "Contact": false,
+            "Description": ""
+        },
         "hypno Wave": {
             "Type": "Ghost",
             "Category": "Status",
@@ -992,6 +1199,15 @@
             "Category": "Special",
             "Power": 50,
             "Accuracy": 90,
+            "Cost": 7,
+            "Contact": false,
+            "Description": ""
+        },
+        "Icy Flurry RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Special",
+            "Power": 90,
+            "Accuracy": 100,
             "Cost": 7,
             "Contact": false,
             "Description": ""
@@ -1071,10 +1287,19 @@
         "Lacerate": {
             "Type": "Cut",
             "Category": "Physical",
-            "Power": 0,
-            "Accuracy": null,
-            "Cost": 6,
-            "Contact": false,
+            "Power": 95,
+            "Accuracy": 95,
+            "Cost": 7,
+            "Contact": true,
+            "Description": ""
+        },
+        "Lacerate RNG Reduced": {
+            "Type": "Cut",
+            "Category": "Physical",
+            "Power": 90,
+            "Accuracy": 100,
+            "Cost": 7,
+            "Contact": true,
             "Description": ""
         },
         "Last Stand": {
@@ -1095,11 +1320,29 @@
             "Contact": false,
             "Description": ""
         },
+        "Lava Boulder RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Special",
+            "Power": 85,
+            "Accuracy": 100,
+            "Cost": 6,
+            "Contact": false,
+            "Description": ""
+        },
         "Lightning Strike": {
             "Type": "Electric",
             "Category": "Special",
             "Power": 65,
             "Accuracy": 95,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
+        "Lightning Strike RNG Reduced": {
+            "Type": "Electric",
+            "Category": "Special",
+            "Power": 61,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": ""
@@ -1113,6 +1356,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Loose Cannon RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Special",
+            "Power": 73,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Magma Punch": {
             "Type": "Fire",
             "Category": "Physical",
@@ -1122,11 +1374,29 @@
             "Contact": false,
             "Description": ""
         },
+        "Magma Punch RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Physical",
+            "Power": 76,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Meteor Shower": {
             "Type": "Sand",
             "Category": "Special",
-            "Power": 135,
+            "Power": 140,
             "Accuracy": 70,
+            "Cost": 7,
+            "Contact": false,
+            "Description": ""
+        },
+        "Meteor Shower RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Special",
+            "Power": 98,
+            "Accuracy": 100,
             "Cost": 7,
             "Contact": false,
             "Description": ""
@@ -1194,8 +1464,17 @@
             "Contact": false,
             "Description": ""
         },
+        "Multi Bolt RNG Reduced": {
+            "Type": "Electric",
+            "Category": "Special",
+            "Power": 60,
+            "Accuracy": 100,
+            "Cost": 6,
+            "Contact": false,
+            "Description": ""
+        },
         "Mutilation Beam": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Special",
             "Power": 70,
             "Accuracy": 100,
@@ -1248,6 +1527,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Permafrost RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Special",
+            "Power": 66,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Phantom Spike": {
             "Type": "Ghost",
             "Category": "Physical",
@@ -1275,6 +1563,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Pinion Slice RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Physical",
+            "Power": 104,
+            "Accuracy": 100,
+            "Cost": 7,
+            "Contact": false,
+            "Description": ""
+        },
         "Pocket Sand": {
             "Type": "Sand",
             "Category": "Status",
@@ -1289,6 +1586,15 @@
             "Category": "Physical",
             "Power": 85,
             "Accuracy": 95,
+            "Cost": 6,
+            "Contact": false,
+            "Description": ""
+        },
+        "Poison Chomp RNG Reduced": {
+            "Type": "Poison",
+            "Category": "Physical",
+            "Power": 80,
+            "Accuracy": 100,
             "Cost": 6,
             "Contact": false,
             "Description": ""
@@ -1325,6 +1631,15 @@
             "Category": "Physical",
             "Power": 30,
             "Accuracy": 95,
+            "Cost": 3,
+            "Contact": false,
+            "Description": ""
+        },
+        "Power Slap RNG Reduced": {
+            "Type": "Electric",
+            "Category": "Physical",
+            "Power": 28,
+            "Accuracy": 100,
             "Cost": 3,
             "Contact": false,
             "Description": ""
@@ -1374,6 +1689,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Propellor Punch RNG Reduced": {
+            "Type": "Normal",
+            "Category": "Physical",
+            "Power": 45,
+            "Accuracy": 100,
+            "Cost": 4,
+            "Contact": false,
+            "Description": ""
+        },
         "Pummel Out": {
             "Type": "Normal",
             "Category": "Physical",
@@ -1388,6 +1712,15 @@
             "Category": "Physical",
             "Power": 65,
             "Accuracy": 90,
+            "Cost": 4,
+            "Contact": false,
+            "Description": ""
+        },
+        "Pyre Peck RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Physical",
+            "Power": 58,
+            "Accuracy": 100,
             "Cost": 4,
             "Contact": false,
             "Description": ""
@@ -1464,6 +1797,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Revenge Jaws RNG Reduced": {
+            "Type": "Foul",
+            "Category": "Physical",
+            "Power": 54,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Rock Wall": {
             "Type": "Sand",
             "Category": "Status",
@@ -1496,6 +1838,15 @@
             "Category": "Special",
             "Power": 100,
             "Accuracy": 95,
+            "Cost": 8,
+            "Contact": false,
+            "Description": ""
+        },
+        "Sand Devils RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Special",
+            "Power": 95,
+            "Accuracy": 100,
             "Cost": 8,
             "Contact": false,
             "Description": ""
@@ -1536,11 +1887,29 @@
             "Contact": false,
             "Description": ""
         },
+        "Sandspout RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Special",
+            "Power": 58,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Sandstorm Smack": {
             "Type": "Sand",
             "Category": "Physical",
             "Power": 100,
             "Accuracy": 90,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
+        "Sandstorm Smack RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Physical",
+            "Power": 90,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": ""
@@ -1581,6 +1950,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Seismic Wave RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Physical",
+            "Power": 9,
+            "Accuracy": 100,
+            "Cost": 6,
+            "Contact": false,
+            "Description": ""
+        },
         "Shadewalker": {
             "Type": "Ghost",
             "Category": "Physical",
@@ -1591,21 +1969,39 @@
             "Description": ""
         },
         "Shadow Fury": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Physical",
             "Power": 55,
             "Accuracy": 95,
             "Cost": 12,
-            "Contact": false,
+            "Contact": true,
+            "Description": ""
+        },
+        "Shadow Fury RNG Reduced": {
+            "Type": "Crimsonite",
+            "Category": "Physical",
+            "Power": 52,
+            "Accuracy": 100,
+            "Cost": 12,
+            "Contact": true,
             "Description": ""
         },
         "Shadow Rend": {
-            "Type": "Dark Magic",
+            "Type": "Crimsonite",
             "Category": "Physical",
             "Power": 130,
             "Accuracy": 95,
             "Cost": 12,
-            "Contact": false,
+            "Contact": true,
+            "Description": ""
+        },
+        "Shadow Rend RNG Reduced": {
+            "Type": "Crimsonite",
+            "Category": "Physical",
+            "Power": 123,
+            "Accuracy": 100,
+            "Cost": 12,
+            "Contact": true,
             "Description": ""
         },
         "Shared Fate": {
@@ -1626,13 +2022,22 @@
             "Contact": false,
             "Description": ""
         },
-        "shattering Claw": {
+        "Sharp Snowball RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Special",
+            "Power": 72,
+            "Accuracy": 100,
+            "Cost": 6,
+            "Contact": false,
+            "Description": ""
+        },
+        "Shattering Claw": {
             "Type": "Ice",
             "Category": "Physical",
             "Power": 60,
             "Accuracy": 100,
             "Cost": 5,
-            "Contact": false,
+            "Contact": true,
             "Description": ""
         },
         "Shell Drill": {
@@ -1689,6 +2094,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Snowball RNG Reduced": {
+            "Type": "Ice",
+            "Category": "Physical",
+            "Power": 58,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Snowburst": {
             "Type": "Ice",
             "Category": "Status",
@@ -1711,7 +2125,7 @@
             "Type": "Ghost",
             "Category": "Physical",
             "Power": 80,
-            "Accuracy": 95,
+            "Accuracy": 100,
             "Cost": 6,
             "Contact": false,
             "Description": ""
@@ -1770,6 +2184,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Splatter RNG Reduced": {
+            "Type": "Water",
+            "Category": "Physical",
+            "Power": 42,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": ""
+        },
         "Stalgamites": {
             "Type": "Sand",
             "Category": "Special",
@@ -1785,7 +2208,16 @@
             "Power": 70,
             "Accuracy": 90,
             "Cost": 8,
-            "Contact": false,
+            "Contact": true,
+            "Description": ""
+        },
+        "Stampede RNG Reduced": {
+            "Type": "Fire",
+            "Category": "Physical",
+            "Power": 63,
+            "Accuracy": 100,
+            "Cost": 8,
+            "Contact": true,
             "Description": ""
         },
         "Stat Copycat": {
@@ -1950,6 +2382,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Tail Spin RNG Reduced": {
+            "Type": "Normal",
+            "Category": "Physical",
+            "Power": 44,
+            "Accuracy": 100,
+            "Cost": 3,
+            "Contact": false,
+            "Description": ""
+        },
         "Tail Splash": {
             "Type": "Water",
             "Category": "Physical",
@@ -1995,6 +2436,15 @@
             "Contact": false,
             "Description": ""
         },
+        "Thunder Salvo RNG Reduced": {
+            "Type": "Electric",
+            "Category": "Special",
+            "Power": 85,
+            "Accuracy": 100,
+            "Cost": 9,
+            "Contact": false,
+            "Description": ""
+        },
         "Time Warp": {
             "Type": "Ghost",
             "Category": "Status",
@@ -2027,6 +2477,15 @@
             "Category": "Physical",
             "Power": 20,
             "Accuracy": 90,
+            "Cost": 5,
+            "Contact": false,
+            "Description": "The user throws a skull covered in toxic molds at the target, dealing some damage and causing poison."
+        },
+        "Toxic Skull RNG Reduced": {
+            "Type": "Sand",
+            "Category": "Physical",
+            "Power": 18,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": "The user throws a skull covered in toxic molds at the target, dealing some damage and causing poison."
@@ -2121,6 +2580,15 @@
             "Contact": false,
             "Description": "Inflict damage on a random target, including opponents not in battle. This attack always goes last."
         },
+        "Voodoo RNG Reduced": {
+            "Type": "Magic",
+            "Category": "Special",
+            "Power": 63,
+            "Accuracy": 100,
+            "Cost": 5,
+            "Contact": false,
+            "Description": "Inflict damage on a random target, including opponents not in battle. This attack always goes last."
+        },
         "Water Clone": {
             "Type": "Water",
             "Category": "Status",
@@ -2139,6 +2607,15 @@
             "Contact": false,
             "Description": "Summon a whirlpool which deals damage and has a 15% chance to knock down the target."
         },
+        "Whirlpool RNG Reduced": {
+            "Type": "Water",
+            "Category": "Special",
+            "Power": 76,
+            "Accuracy": 100,
+            "Cost": 6,
+            "Contact": false,
+            "Description": "Summon a whirlpool which deals damage and has a 15% chance to knock down the target."
+        },
         "Whoosh": {
             "Type": "Air",
             "Category": "Special",
@@ -2153,6 +2630,15 @@
             "Category": "Special",
             "Power": 80,
             "Accuracy": 95,
+            "Cost": 5,
+            "Contact": false,
+            "Description": "Using its wings the user sends a powerful blast of wind towards the target, dealing damage."
+        },
+        "Wind Blast RNG Reduced": {
+            "Type": "Air",
+            "Category": "Special",
+            "Power": 76,
+            "Accuracy": 100,
             "Cost": 5,
             "Contact": false,
             "Description": "Using its wings the user sends a powerful blast of wind towards the target, dealing damage."

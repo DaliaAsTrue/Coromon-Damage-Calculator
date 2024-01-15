@@ -7,11 +7,11 @@
             "BST": {
                 "HP": 90,
                 "SP": 34,
-                "Atk": 130,
-                "Def": 110,
-                "Sp.A": 100,
-                "Sp.D": 120,
-                "Spd": 90
+                "Atk": 131,
+                "Def": 109,
+                "Sp.A": 98,
+                "Sp.D": 119,
+                "Spd": 98
             },
             "Traits": [
                 "Sharp Claws",
@@ -31,13 +31,13 @@
             "id": 2,
             "Type": "Ice",
             "BST": {
-                "HP": 120,
+                "HP": 121,
                 "SP": 34,
-                "Atk": 170,
+                "Atk": 172,
                 "Def": 140,
-                "Sp.A": 130,
-                "Sp.D": 150,
-                "Spd": 120
+                "Sp.A": 129,
+                "Sp.D": 148,
+                "Spd": 139
             },
             "Traits": [
                 "Sharp Claws",
@@ -1056,7 +1056,7 @@
             "id": 9,
             "Type": "Water",
             "Stats": {
-                "HP": 158,
+                "HP": 171,
                 "SP": 34,
                 "Atk": 166,
                 "Def": 204,
@@ -1145,7 +1145,7 @@
             "Stats": {
                 "HP": 143,
                 "SP": 34,
-                "Atk": 247,
+                "Atk": 227,
                 "Def": 91,
                 "Sp.A": 89,
                 "Sp.D": 174,
@@ -1228,10 +1228,10 @@
             "Stats": {
                 "HP": 172,
                 "SP": 34,
-                "Atk": 162,
-                "Def": 148,
-                "Sp.A": 161,
-                "Sp.D": 142,
+                "Atk": 169,
+                "Def": 153,
+                "Sp.A": 168,
+                "Sp.D": 147,
                 "Spe": 208
             },
             "Traits": [
@@ -1284,7 +1284,7 @@
                 "HP": 142,
                 "SP": 34,
                 "Atk": 213,
-                "Def": 153,
+                "Def": 181,
                 "Sp.A": 139,
                 "Sp.D": 188,
                 "Spe": 188
@@ -1412,7 +1412,7 @@
             "Stats": {
                 "HP": 168,
                 "SP": 34,
-                "Atk": 246,
+                "Atk": 211,
                 "Def": 266,
                 "Sp.A": 112,
                 "Sp.D": 129,
@@ -1467,10 +1467,10 @@
             "id": 24,
             "Type": "Sand",
             "Stats": {
-                "HP": 162,
+                "HP": 192,
                 "SP": 34,
                 "Atk": 206,
-                "Def": 162,
+                "Def": 195,
                 "Sp.A": 183,
                 "Sp.D": 138,
                 "Spe": 162
@@ -1524,7 +1524,7 @@
                 "Def": 172,
                 "Sp.A": 226,
                 "Sp.D": 168,
-                "Spe": 174
+                "Spe": 186
             },
             "Traits": [
                 ""
@@ -1578,10 +1578,10 @@
                 "HP": 216,
                 "SP": 34,
                 "Atk": 232,
-                "Def": 122,
+                "Def": 156,
                 "Sp.A": 194,
                 "Sp.D": 124,
-                "Spe": 132
+                "Spe": 139
             },
             "Traits": [
                 ""
@@ -1664,7 +1664,7 @@
                 "Def": 94,
                 "Sp.A": 164,
                 "Sp.D": 84,
-                "Spe": 106
+                "Spe": 114
             },
             "Traits": [
                 "Escapist",
@@ -1690,7 +1690,7 @@
                 "Def": 111,
                 "Sp.A": 221,
                 "Sp.D": 118,
-                "Spe": 142
+                "Spe": 166
             },
             "Traits": [
                 ""
@@ -1824,9 +1824,9 @@
             "id": 40,
             "Type": "Ghost",
             "Stats": {
-                "HP": 120,
+                "HP": 150,
                 "SP": 34,
-                "Atk": 183,
+                "Atk": 201,
                 "Def": 121,
                 "Sp.A": 224,
                 "Sp.D": 152,
@@ -1944,7 +1944,7 @@
                 "Def": 129,
                 "Sp.A": 217,
                 "Sp.D": 132,
-                "Spe": 154
+                "Spe": 175
             },
             "Traits": [
                 ""
@@ -1957,13 +1957,13 @@
             "id": 47,
             "Type": "Electric",
             "Stats": {
-                "HP": 54,
+                "HP": 84,
                 "SP": 34,
                 "Atk": 71,
                 "Def": 138,
-                "Sp.A": 195,
+                "Sp.A": 158,
                 "Sp.D": 118,
-                "Spe": 89
+                "Spe": 96
             },
             "Traits": [
                 ""
@@ -1976,13 +1976,13 @@
             "id": 48,
             "Type": "Electric",
             "Stats": {
-                "HP": 105,
+                "HP": 179,
                 "SP": 34,
                 "Atk": 120,
                 "Def": 188,
-                "Sp.A": 256,
+                "Sp.A": 184,
                 "Sp.D": 195,
-                "Spe": 144
+                "Spe": 151
             },
             "Traits": [
                 ""
@@ -2016,7 +2016,7 @@
             "Stats": {
                 "HP": 197,
                 "SP": 34,
-                "Atk": 288,
+                "Atk": 215,
                 "Def": 266,
                 "Sp.A": 98,
                 "Sp.D": 111,
@@ -2039,7 +2039,7 @@
                 "Def": 98,
                 "Sp.A": 136,
                 "Sp.D": 80,
-                "Spe": 120
+                "Spe": 128
             },
             "Traits": [
                 ""
@@ -2058,7 +2058,7 @@
                 "Def": 114,
                 "Sp.A": 176,
                 "Sp.D": 128,
-                "Spe": 148
+                "Spe": 161
             },
             "Traits": [
                 ""
@@ -2077,7 +2077,7 @@
                 "Def": 159,
                 "Sp.A": 182,
                 "Sp.D": 131,
-                "Spe": 164
+                "Spe": 188
             },
             "Traits": [
                 ""
@@ -2131,7 +2131,7 @@
                 "HP": 161,
                 "SP": 34,
                 "Atk": 260,
-                "Def": 166,
+                "Def": 183,
                 "Sp.A": 151,
                 "Sp.D": 178,
                 "Spe": 114
@@ -2147,13 +2147,13 @@
             "id": 57,
             "Type": "Ghost",
             "Stats": {
-                "HP": 110,
+                "HP": 122,
                 "SP": 34,
-                "Atk": 88,
-                "Def": 92,
-                "Sp.A": 78,
-                "Sp.D": 76,
-                "Spe": 84
+                "Atk": 98,
+                "Def": 96,
+                "Sp.A": 82,
+                "Sp.D": 80,
+                "Spe": 86
             },
             "Traits": [
                 ""
@@ -2166,12 +2166,12 @@
             "id": 58,
             "Type": "Ghost",
             "Stats": {
-                "HP": 188,
+                "HP": 194,
                 "SP": 34,
                 "Atk": 184,
                 "Def": 174,
                 "Sp.A": 129,
-                "Sp.D": 141,
+                "Sp.D": 168,
                 "Spe": 122
             },
             "Traits": [
@@ -2204,7 +2204,7 @@
             "id": 60,
             "Type": "Ice",
             "Stats": {
-                "HP": 141,
+                "HP": 166,
                 "SP": 34,
                 "Atk": 161,
                 "Def": 171,
@@ -2280,11 +2280,11 @@
             "id": 64,
             "Type": "Fire",
             "Stats": {
-                "HP": 159,
+                "HP": 198,
                 "SP": 34,
                 "Atk": 139,
                 "Def": 130,
-                "Sp.A": 161,
+                "Sp.A": 181,
                 "Sp.D": 246,
                 "Spe": 201
             },
@@ -2353,7 +2353,7 @@
             "id": 67,
             "Type": "Electric",
             "Stats": {
-                "HP": 162,
+                "HP": 185,
                 "SP": 34,
                 "Atk": 108,
                 "Def": 166,
@@ -2470,7 +2470,7 @@
             "id": 70,
             "Type": "Normal",
             "Stats": {
-                "HP": 171,
+                "HP": 168,
                 "SP": 34,
                 "Atk": 161,
                 "Def": 180,
@@ -2605,9 +2605,9 @@
             "Stats": {
                 "HP": 138,
                 "SP": 34,
-                "Atk": 158,
+                "Atk": 128,
                 "Def": 94,
-                "Sp.A": 127,
+                "Sp.A": 144,
                 "Sp.D": 88,
                 "Spe": 181
             },
@@ -2624,9 +2624,9 @@
             "Stats": {
                 "HP": 178,
                 "SP": 34,
-                "Atk": 188,
+                "Atk": 155,
                 "Def": 194,
-                "Sp.A": 155,
+                "Sp.A": 188,
                 "Sp.D": 182,
                 "Spe": 142
             },
@@ -2662,9 +2662,9 @@
             "Stats": {
                 "HP": 144,
                 "SP": 34,
-                "Atk": 141,
-                "Def": 223,
-                "Sp.A": 93,
+                "Atk": 161,
+                "Def": 203,
+                "Sp.A": 113,
                 "Sp.D": 121,
                 "Spe": 104
             },
@@ -2681,9 +2681,9 @@
             "Stats": {
                 "HP": 185,
                 "SP": 34,
-                "Atk": 168,
-                "Def": 268,
-                "Sp.A": 108,
+                "Atk": 218,
+                "Def": 238,
+                "Sp.A": 148,
                 "Sp.D": 133,
                 "Spe": 109
             },
@@ -2704,7 +2704,7 @@
                 "Def": 93,
                 "Sp.A": 127,
                 "Sp.D": 122,
-                "Spe": 84
+                "Spe": 126
             },
             "Traits": [
                 ""
@@ -2723,7 +2723,7 @@
                 "Def": 179,
                 "Sp.A": 182,
                 "Sp.D": 176,
-                "Spe": 118
+                "Spe": 195
             },
             "Traits": [
                 ""
@@ -2820,9 +2820,9 @@
             "id": 86,
             "Type": "Electric",
             "Stats": {
-                "HP": 133,
+                "HP": 149,
                 "SP": 34,
-                "Atk": 215,
+                "Atk": 218,
                 "Def": 209,
                 "Sp.A": 163,
                 "Sp.D": 172,
@@ -2860,7 +2860,7 @@
             "Stats": {
                 "HP": 143,
                 "SP": 34,
-                "Atk": 147,
+                "Atk": 182,
                 "Def": 204,
                 "Sp.A": 212,
                 "Sp.D": 167,
@@ -2938,7 +2938,7 @@
                 "SP": 34,
                 "Atk": 142,
                 "Def": 254,
-                "Sp.A": 245,
+                "Sp.A": 218,
                 "Sp.D": 195,
                 "Spe": 84
             },
@@ -3151,9 +3151,9 @@
                 "SP": 34,
                 "Atk": 139,
                 "Def": 128,
-                "Sp.A": 253,
+                "Sp.A": 220,
                 "Sp.D": 226,
-                "Spe": 161
+                "Spe": 190
             },
             "Traits": [
                 ""
@@ -3169,9 +3169,9 @@
                 "HP": 148,
                 "SP": 34,
                 "Atk": 118,
-                "Def": 68,
+                "Def": 78,
                 "Sp.A": 138,
-                "Sp.D": 68,
+                "Sp.D": 78,
                 "Spe": 49
             },
             "Traits": [
@@ -3187,10 +3187,10 @@
             "Stats": {
                 "HP": 237,
                 "SP": 34,
-                "Atk": 229,
-                "Def": 131,
+                "Atk": 219,
+                "Def": 161,
                 "Sp.A": 176,
-                "Sp.D": 108,
+                "Sp.D": 138,
                 "Spe": 99
             },
             "Traits": [
@@ -3225,7 +3225,7 @@
             "Stats": {
                 "HP": 117,
                 "SP": 34,
-                "Atk": 198,
+                "Atk": 181,
                 "Def": 344,
                 "Sp.A": 204,
                 "Sp.D": 102,
@@ -3237,6 +3237,443 @@
             "Skills": [
                 ""
             ]
-        }
+        },
+        "Lemobi": {
+            "id": 107,
+            "Type": "Normal",
+            "Stats": {
+                "HP": 81,
+                "SP": 34,
+                "Atk": 74,
+                "Def": 61,
+                "Sp.A": 114,
+                "Sp.D": 72,
+                "Spe": 122
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Makinja": {
+            "id": 108,
+            "Type": "Normal",
+            "Stats": {
+                "HP": 165,
+                "SP": 34,
+                "Atk": 180,
+                "Def": 122,
+                "Sp.A": 230,
+                "Sp.D": 132,
+                "Spe": 217
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Glacikid": {
+            "id": 109,
+            "Type": "Ice",
+            "Stats": {
+                "HP": 96,
+                "SP": 34,
+                "Atk": 73,
+                "Def": 123,
+                "Sp.A": 126,
+                "Sp.D": 101,
+                "Spe": 71
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Arctiram": {
+            "id": 110,
+            "Type": "Ice",
+            "Stats": {
+                "HP": 168,
+                "SP": 34,
+                "Atk": 135,
+                "Def": 194,
+                "Sp.A": 218,
+                "Sp.D": 175,
+                "Spe": 122
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Fiddly-C": {
+            "id": 111,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 62,
+                "SP": 34,
+                "Atk": 191,
+                "Def": 159,
+                "Sp.A": 52,
+                "Sp.D": 48,
+                "Spe": 102
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Ucaclaw-C": {
+            "id": 112,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 143,
+                "SP": 34,
+                "Atk": 278,
+                "Def": 245,
+                "Sp.A": 128,
+                "Sp.D": 104,
+                "Spe": 148
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Lumon-C": {
+            "id": 113,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 69,
+                "SP": 34,
+                "Atk": 71,
+                "Def": 78,
+                "Sp.A": 82,
+                "Sp.D": 112,
+                "Spe": 101
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Lampyre-C": {
+            "id": 114,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 108,
+                "SP": 34,
+                "Atk": 90,
+                "Def": 111,
+                "Sp.A": 103,
+                "Sp.D": 133,
+                "Spe": 160
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Lumasect-C": {
+            "id": 115,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 162,
+                "SP": 34,
+                "Atk": 108,
+                "Def": 166,
+                "Sp.A": 134,
+                "Sp.D": 191,
+                "Spe": 224
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Decibite-C": {
+            "id": 116,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 65,
+                "SP": 34,
+                "Atk": 142,
+                "Def": 208,
+                "Sp.A": 81,
+                "Sp.D": 72,
+                "Spe": 67
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Centilla-C": {
+            "id": 117,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 97,
+                "SP": 34,
+                "Atk": 180,
+                "Def": 276,
+                "Sp.A": 99,
+                "Sp.D": 98,
+                "Spe": 82
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Millidont-C": {
+            "id": 118,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 128,
+                "SP": 34,
+                "Atk": 194,
+                "Def": 340,
+                "Sp.A": 120,
+                "Sp.D": 148,
+                "Spe": 98
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Arcta-C": {
+            "id": 119,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 90,
+                "SP": 34,
+                "Atk": 109,
+                "Def": 117,
+                "Sp.A": 145,
+                "Sp.D": 126,
+                "Spe": 98
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Arcturos-C": {
+            "id": 120,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 141,
+                "SP": 34,
+                "Atk": 161,
+                "Def": 171,
+                "Sp.A": 201,
+                "Sp.D": 212,
+                "Spe": 147
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Otogy-C": {
+            "id": 121,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 148,
+                "SP": 34,
+                "Atk": 118,
+                "Def": 78,
+                "Sp.A": 138,
+                "Sp.D": 78,
+                "Spe": 49
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Orotchy-C": {
+            "id": 122,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 237,
+                "SP": 34,
+                "Atk": 219,
+                "Def": 161,
+                "Sp.A": 176,
+                "Sp.D": 138,
+                "Spe": 99
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Voltgar": {
+            "id": 123,
+            "Type": "Electric",
+            "Stats": {
+                "HP": 1500,
+                "SP": 160,
+                "Atk": 140,
+                "Def": 120,
+                "Sp.A": 140,
+                "Sp.D": 120,
+                "Spe": 60
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Illuginn": {
+            "id": 124,
+            "Type": "Ghost",
+            "Stats": {
+                "HP": 1500,
+                "SP": 160,
+                "Atk": 125,
+                "Def": 110,
+                "Sp.A": 125,
+                "Sp.D": 120,
+                "Spe": 65
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Sart": {
+            "id": 125,
+            "Type": "Sand",
+            "Stats": {
+                "HP": 1700,
+                "SP": 160,
+                "Atk": 150,
+                "Def": 145,
+                "Sp.A": 130,
+                "Sp.D": 145,
+                "Spe": 80
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Hozai": {
+            "id": 126,
+            "Type": "Fire",
+            "Stats": {
+                "HP": 1800,
+                "SP": 160,
+                "Atk": 140,
+                "Def": 170,
+                "Sp.A": 165,
+                "Sp.D": 170,
+                "Spe": 90
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Vorst": {
+            "id": 127,
+            "Type": "Ice",
+            "Stats": {
+                "HP": 1900,
+                "SP": 160,
+                "Atk": 170,
+                "Def": 210,
+                "Sp.A": 180,
+                "Sp.D": 200,
+                "Spe": 100
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Chalchiu": {
+            "id": 128,
+            "Type": "Crimsonite",
+            "Stats": {
+                "HP": 2000,
+                "SP": 160,
+                "Atk": 140,
+                "Def": 150,
+                "Sp.A": 130,
+                "Sp.D": 150,
+                "Spe": 110
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
+        "Fusebox": {
+            "id": 129,
+            "Type": "Normal",
+            "Stats": {
+                "HP": 200,
+                "SP": 34,
+                "Atk": 100,
+                "Def": 100,
+                "Sp.A": 100,
+                "Sp.D": 100,
+                "Spe": 100
+            },
+            "Traits": [
+                ""
+            ],
+            "Skills": [
+                ""
+            ]
+        },
     }
 }
