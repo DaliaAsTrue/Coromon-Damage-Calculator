@@ -1,5 +1,6 @@
 header {
   text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 header h1 {
@@ -47,7 +48,7 @@ header p {
   text-align: center;
   cursor: pointer;
   padding: 5px;
-  width: 10em;
+  width: 250px;
 }
 
 .hiddenRadio:checked + .skillLabel {
@@ -56,11 +57,14 @@ header p {
 
 .results {
   margin-bottom: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
 }
 
 strong {
   font-size: larger;
   padding-left: 60px;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 #boxes {
