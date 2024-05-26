@@ -72,7 +72,7 @@
         "Avalanche": {
             "Type": "Ice",
             "Category": "Physical",
-            "Power": 110,
+            "Power": 95,
             "Accuracy": 95,
             "Cost": 8,
             "Contact": false,
@@ -81,7 +81,7 @@
         "Avalanche RNG Reduced": {
             "Type": "Ice",
             "Category": "Physical",
-            "Power": 104,
+            "Power": 90,
             "Accuracy": 100,
             "Cost": 8,
             "Contact": false,
@@ -2259,7 +2259,7 @@
         "Sting": {
             "Type": "Electric",
             "Category": "Physical",
-            "Power": 60,
+            "Power": 80,
             "Accuracy": 100,
             "Cost": 4,
             "Contact": false,
